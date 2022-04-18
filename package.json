@@ -1,0 +1,19 @@
+{
+  "name": "pusheen-game",
+  "version": "1.0.0",
+  "description": "PusheenGame ===================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darekf77/pusheen-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darekf77/pusheen-game/issues"
+  },
+  "homepage": "https://github.com/darekf77/pusheen-game#readme"
+}
